@@ -1,5 +1,9 @@
 # Business Case Loyalytics
 
+### Dashboard:
+
+![alt text](image.png)
+
 ### Context:
 Loyalytics is an AI and analytics company helping some of the world's leading brands solve their complex data challenges. Their end-to-end platform enables companies to leverage the power of data to craft strategies, create engaging customer experiences, and drive measurable business impact. They were voted one of the best CRM solutions provider in India by the CIO Review magazine in the year 2019. 
 
@@ -29,3 +33,4 @@ The Dataset has the following features:
 | `total_spend`                  | Total amount the customer spent on that item within that transaction                                        |
 | `signed_up_loyalty_program_date` | Date that the customer signed up for a loyalty program. Blank if the customer has not registered             |
 | `signed_up_app_date`           | Date that the customer signed up on the mobile application. Blank if the customer does not have the app     |
+
