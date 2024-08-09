@@ -4,6 +4,15 @@
 
 ![alt text](image.png)
 
+### Insights:
+- Identified low app sign-up rates, likely due to customer discomfort, lack of smartphones, or reluctance among those over 50.
+
+- Noted that refunds during a two-year period accounted for just 4.47% of total sales.
+
+- Observed a significant delay between sign-up and the first transaction, potentially due to the two-year data limitation.
+
+- Highlighted Dubai as the region with the highest sales and the most refunds, and noted a sharp increase in freebies given out in early 2022 compared to previous years.
+
 ### Context:
 Loyalytics is an AI and analytics company helping some of the world's leading brands solve their complex data challenges. Their end-to-end platform enables companies to leverage the power of data to craft strategies, create engaging customer experiences, and drive measurable business impact. They were voted one of the best CRM solutions provider in India by the CIO Review magazine in the year 2019. 
 
