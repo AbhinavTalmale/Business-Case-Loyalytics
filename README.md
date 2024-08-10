@@ -5,6 +5,7 @@
 ![alt text](image.png)
 
 ### Insights:
+- Analyzed Loyalytics sales data using Tableau to identify trends and recommend improvements, based on 500,000+ transactions across UAE and Qatar (2020-2022).
 - Identified low app sign-up rates, likely due to customer discomfort, lack of smartphones, or reluctance among those over 50.
 
 - Noted that refunds during a two-year period accounted for just 4.47% of total sales.
