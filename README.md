@@ -2,6 +2,8 @@
 
 ### Dashboard:
 
+[Dashboard](https://public.tableau.com/app/profile/abhinav.talmale/viz/TableauDashboardLoyalytics/Dashboard1)
+
 ![alt text](image.png)
 
 ### Insights:
